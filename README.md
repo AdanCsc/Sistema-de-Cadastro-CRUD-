@@ -11,12 +11,13 @@ Projeto CRUD desenvolvido em Python para gerenciamento de usuários via terminal
 ## 🧠 Tecnologias
 - Python
 
-## ▶️ Como executar
-```bash
-python cadastro.py
-
-```md
 ## 📈 Melhorias futuras
 - Interface gráfica
 - Integração com banco de dados
 - Validação avançada de dados
+
+## ▶️ Como executar
+```bash
+python cadastro.py
+
+
